@@ -28,4 +28,4 @@ While it's not pervasive at all, some applications might have compatability issu
 If the program you try to type into:
 - doesn't support it (typically some games): request them for full Unicode support, get declined, get depressed, move on.
 - doesn't react to input (e.g. Telegram at time of writing): issue the developers a bug report and meanwhile write elsewhere and copy into where you wanted it written.
-- doesn't display the letters correctly, just shows boxes □ or question marks �: it's likely the font that attempts to display the text is incompatible. If you can change it into one that does, do so. If you can't but it's reasonable for you to change the font, issue a bug report to the developers, and if not, consider this is a case of no support.
+- doesn't display the letters correctly, just shows boxes □ or question marks �: it's likely the font that attempts to display the text is incompatible. If you can change it into one that does, do so. If you can't but it's reasonable for you to be able to change the font, issue a bug report to the developers, and if not, consider this is a case of no support.
