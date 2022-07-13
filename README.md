@@ -1,8 +1,8 @@
 # Paleo_KBL
 
-Paleo-Hebrew keyboard layout for Windows.
+This project provides a Paleo-Hebrew keyboard layout for Windows, allowing you to type Paleo-Hebrew directly into applications.
 
-This layout is identical to the standard Hebrew keyboard layout, it just changes the alphabet script to Paleo-Hebrew.
+The layout is identical to the standard Hebrew keyboard layout except that it changes the alphabet script to Paleo-Hebrew.
 
 # Installation
 
