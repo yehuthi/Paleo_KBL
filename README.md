@@ -4,6 +4,10 @@ This project provides a Paleo-Hebrew keyboard layout for Windows, allowing you t
 
 The layout is identical to the standard Hebrew keyboard layout except that it changes the alphabet script to Paleo-Hebrew.
 
+<p align="center">
+<img alt="Demo" src="phkbl.gif" />
+</p>
+
 # Installation
 
 Download the [latest release](https://github.com/yehuthi/Paleo_KBL/releases/latest) and run the `setup.exe` inside the archive.
