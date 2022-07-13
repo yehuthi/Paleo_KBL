@@ -12,10 +12,13 @@ Download the [latest release](https://github.com/yehuthi/Paleo_KBL/releases/late
 
 # Usage 
 
+If you do not already have a Hebrew keyboard layout, one should be added for you with the keyboard layout.
+
+If you did already have one, you will now have too:
+
 <p align="center"><img alt="Input Methods" src="languages.png" /></p>
 
-Your language selection at the taskbar should now have two Hebrew entries, one with an additional subtext that says "Hebrew" and one without a subtext.
-The one with subtext is the standard one, and the one without is the Paleo layout.
+The one with the subtext "Hebrew" is the standard one, and the one without is the Paleo layout.
 Whichever you choose will be the Hebrew you use and go back to on keyboard layout switch (<kbd>Alt</kbd>+<kbd>Shift</kbd> by default).
 
 # Compatability
