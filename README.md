@@ -8,18 +8,13 @@ The layout is identical to the standard Hebrew keyboard layout except that it ch
 
 # Installation
 
-Download the [latest release](https://github.com/yehuthi/Paleo_KBL/releases/latest) and run the `setup.exe` inside the archive.
+Download the [latest release](https://github.com/yehuthi/Paleo_KBL/releases/latest), run the `setup.exe` inside the archive, and restart your computer.
 
 # Usage 
 
-If you do not already have a Hebrew keyboard layout, one should be added for you with the keyboard layout.
-
-If you did already have one, you will now have too:
+A new Hebrew (Paleo-Hebrew) layout should now be added to your input methods
 
 <p align="center"><img alt="Input Methods" src="languages.png" /></p>
-
-The one with the subtext "Hebrew" is the standard one, and the one without is the Paleo layout.
-Whichever you choose will be the Hebrew you use and go back to on keyboard layout switch (<kbd>Alt</kbd>+<kbd>Shift</kbd> by default).
 
 # Compatability
 
